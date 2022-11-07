@@ -9,7 +9,7 @@ add_action('after_setup_theme', function() {
         // location (slug name/id) => description
         'navbar-top' => 'Liens de la navigation',
         'navbar-down' => 'Liens de la navigation en bas',
-        'navbar-categories' => 'Liens pour les categories'
-        // 'navbar-authors' => 'Liens pour les auteurs'
+        'navbar-categories' => 'Liens pour les categories',
+        'navbar-authors' => 'Liens pour les auteurs'
     ]);
 });

@@ -55,7 +55,7 @@
                 <h1>Blog</h1>
                 <hr />
             <p>
-                Un blog WordPress
+                in WordPress
             </p>
             <?php endif ; ?>         
         </section>
